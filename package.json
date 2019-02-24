@@ -1,0 +1,23 @@
+{
+  "fitbit": {
+    "appUUID": "4a9e058c-fd24-4f29-810c-1671f3914ba6",
+    "appType": "app",
+    "appDisplayName": "myBreak",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#2196f3",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "myBreak"
+      }
+    }
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~3.0.0",
+    "@fitbit/sdk-cli": "^1.0.0"
+  }
+}
