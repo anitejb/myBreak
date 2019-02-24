@@ -1,0 +1,25 @@
+.background {
+  viewport-fill: pink;
+}
+
+#realTime {
+  font-size: 80;
+  font-family: Colfax-Regular;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 70%+40;
+  fill: steelblue;
+  visibility: hidden;
+}
+
+#breakTime {
+  font-size: 80;
+  font-family: Colfax-Regular;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 20%+40;
+  fill: teal;
+}
+
